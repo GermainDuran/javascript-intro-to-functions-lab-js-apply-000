@@ -9,6 +9,7 @@ function logShout (string) {
   var aux = string.toUpperCase()
   console.log(aux);
 }
+
 function logWhisper (string) {
   var aux = string.toLowerCase()
   console.log(aux);
