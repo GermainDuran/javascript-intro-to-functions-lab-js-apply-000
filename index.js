@@ -23,6 +23,7 @@ function sayHiToGrandma(string){
     return ("YES INDEED!")
 
  stringaux === "I love you, Grandma."
+   if (stringaux== string)
     return ("I love you, too.")
 }
 
