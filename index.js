@@ -5,5 +5,5 @@ function whisper (string) {
   return string.toLowerCase()
 }
 function spy (string) {
-  return string.toLowerCase()
+  console.log string()
 }
