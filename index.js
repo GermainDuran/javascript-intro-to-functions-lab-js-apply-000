@@ -22,9 +22,9 @@ function sayHiToGrandma(string){
     console.log (aux);
   }
  
- var uppercase= 'HELLO'
- string.toUppercase()=== uppercase
-    return ("YES INDEED!")
+// var uppercase= 'HELLO'
+// string.toUppercase()=== uppercase
+  //  return ("YES INDEED!")
 
 // stringaux === "I love you, Grandma."
   // if (stringaux== string)
