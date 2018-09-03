@@ -14,14 +14,16 @@ function sayHiToGrandma(string){
   
   string = "HELLO"
   uppercase.toUpperCase() === uppercase // true
-  return ('YES INDEED!')
+  stringaux2 = "YES INDEED!"
+  return stringaux2()
  
   string = 'hello!'
   lowercase.toLowerCase() === lowercase // true
-  stringaux = I can\'t hear you!
-  return stringaux('')
+  stringaux = "I can't hear you"
+  return stringaux()
   
   string = "I love you, Grandma."
-  return ('I love you, too.')
+  stringaux3= "I love you, too."
+  return stringaux3()
   
 }
