@@ -18,16 +18,16 @@ function sayHiToGrandma(string){
   
  const lowercase = "hello"
  if (string == lowercase)
-  { var aux = "I can't hear you!" 
+ { var aux = "I can't hear you!" 
     return (aux)  
-  }
+ }
  
   const uppercase= 'HELLO'
- string.toUppercase()=== uppercase
-  return ("YES INDEED!")
+  if (string == uppercase)
+    return ("YES INDEED!")
 
   const stringaux = "I love you, Grandma."
-  if (stringaux== string)
-  return ("I love you, too.")
+  if (stringaux == string)
+    return ("I love you, too.")
 }
 
