@@ -22,8 +22,8 @@ function sayHiToGrandma(string){
     } 
 
   string.toLowerCase() === string 
-    {var stringaux = "I can't hear you"
-     console.log(stringaux);
+    {return ("I can't hear you")
+
     }
  // string = "I love you, Grandma."
 //  stringaux3= "I love you, too."
