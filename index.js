@@ -17,12 +17,12 @@ function sayHiToGrandma(string){
   
  
   string.toUpperCase() === string
-    {stringaux2 = "YES INDEED!"
+    {var stringaux2 = "YES INDEED!"
     return stringaux2()
     } 
 
   string.toLowerCase() === string 
-    {stringaux = "I can't hear you"
+    {var stringaux = "I can't hear you"
     return stringaux()
     }
  // string = "I love you, Grandma."
