@@ -18,8 +18,8 @@ function sayHiToGrandma(string){
  
   string = 'hello!'
   lowercase.toLowerCase() === lowercase // true
-  stringaux = 
-  return stringaux('I can\'t hear you!')
+  stringaux = I can\'t hear you!
+  return stringaux('')
   
   string = "I love you, Grandma."
   return ('I love you, too.')
