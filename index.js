@@ -23,7 +23,7 @@ function sayHiToGrandma(string){
 
   string.toLowerCase() === string 
     {var stringaux = "I can't hear you"
-    return stringaux()
+     console.log(stringaux);
     }
  // string = "I love you, Grandma."
 //  stringaux3= "I love you, too."
